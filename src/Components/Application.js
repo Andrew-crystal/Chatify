@@ -186,7 +186,7 @@ function Application(props) {
 		<div>
 			<Toolbar className={classes.sideToolBar}>
 				<Typography variant="h6" className={classes.sideToolBarText}>
-					Aurora Chat
+					crystal Chat
 				</Typography>
 			</Toolbar>
 			<Divider />
@@ -308,7 +308,7 @@ function Application(props) {
 							</MenuItem>
 
 							<MenuItem onClick={signOut}>
-								<GoSignOut /> &nbsp; Sign Out of Aurora Chat
+								<GoSignOut /> &nbsp; Sign Out of crystal Chat
 							</MenuItem>
 						</Menu>
 					</div>

@@ -84,7 +84,7 @@ function Home() {
 			<Grid container className={classes.root}>
 				<Grid item xs={12} style={{ textAlign: "center" }}>
 					<Typography component="h1" className={classes.heading}>
-						Welcome to Aurora Chat
+						Welcome to crystal Chat
 					</Typography>
 					<Typography component="h1" className={classes.subHeading}>
 						Effortless live chat to hangout with friends!

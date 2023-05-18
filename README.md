@@ -4,7 +4,7 @@
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
-### https://aurorachat-536d0.web.app/
+### https://crystalchat-536d0.web.app/
 
 <div align="center">
   <img alt="Demo" src="./Assets/chatify.png" />
@@ -32,7 +32,7 @@
 
 ### Clone this repository
 
-`git clone https://github.com/TechAurora518/Chatify.git` <br/>
+`git clone https://github.com/Techcrystal518/Chatify.git` <br/>
 `cd chatify`
 
 ### Install Dependencies

@@ -53,7 +53,7 @@ function SignUp() {
 					alt="signup img"
 				/>
 				<Topography variant="h4" style={{ paddingTop: "15px" }}>
-					Sign In To AuroraChat
+					Sign In To crystalChat
 				</Topography>
 				<Button
 					variant="outlined"
