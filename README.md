@@ -32,7 +32,7 @@
 
 ### Clone this repository
 
-`git clone https://github.com/Techcrystal518/Chatify.git` <br/>
+`git clone https://github.com/Andrew-crystal/Chatify.git` <br/>
 `cd chatify`
 
 ### Install Dependencies
